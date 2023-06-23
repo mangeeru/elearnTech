@@ -14,7 +14,7 @@
 	<name>elearnTech</name>
 	<description>learing jenkins docker kubernate kafka</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
